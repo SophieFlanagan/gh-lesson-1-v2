@@ -30,14 +30,12 @@
 /* =================== feature/content_section ==================== */
 
 .section-middle {
-    border: green solid 5px;
     height: 60vh;
     background-color: blueviolet;
     
 }
 
 .container-middle-upper {
-    border: red solid 5px;
     height: 60vh;
     width: 100vw;
     display: flex;
@@ -48,16 +46,14 @@
 }
 
 .container-img {
-    border: black solid 5px;
     height: 100%;
     width: 30vw;
 }
 
 .container-text {
-    border: black solid 5px;
     height: 20vh;
     width: 20vw;
-    display: flex;
+
     
 }
 
