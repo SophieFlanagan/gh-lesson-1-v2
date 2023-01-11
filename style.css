@@ -84,12 +84,17 @@ footer {
 
 .ul-nav-bottom {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
+    justify-content: space-between;
 }
 
 .li-menu-bottom:hover {
     color: green;
     cursor: pointer;
-}  
+    }  
 
+.li-menu-bottom {
+    display: flex;
+    text-decoration: none;
+}
