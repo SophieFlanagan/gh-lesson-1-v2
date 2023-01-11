@@ -27,6 +27,12 @@
     align-items: center;
 }
 
+.li-menu-top:hover {
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
+
 /* =================== feature/content_section ==================== */
 
 .section-middle {
